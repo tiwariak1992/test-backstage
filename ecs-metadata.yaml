@@ -14,4 +14,4 @@ spec:
   type: ECS Cluster metadata
   owner: Amit k Tiwari
   team: SRE
-  repository: pattern-ecs-tf
+  system: ecs
