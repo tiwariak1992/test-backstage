@@ -11,7 +11,8 @@ metadata:
     - sandbox
     - terraform
 spec:
-  type: ECS Cluster metadata
+  type: service
   owner: Amit k Tiwari
   team: SRE
   system: ECS
+  lifecycle: experimental
