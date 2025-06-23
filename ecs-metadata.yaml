@@ -4,16 +4,16 @@ metadata:
   name: ecs-metadata
   description: Stores ECS metadata
   tags:
-    - pattern
+    - app
     - ecs
     - sandbox
     - terraform
-    - pattern-tf
+    - app-tf
   annotations:
     Environment: sandbox
     CreatedBy: terraform
-    Name: pattern
-    Repository: pattern-tf
+    Name: app
+    Repository: app-tf
 spec:
   type: Service
   owner: Amit k Tiwari
