@@ -6,6 +6,9 @@ metadata:
   tags:
     - pattern
     - ecs
+    - sandbox
+    - terraform
+    - pattern-tf
   annotations:
     Environment: sandbox
     CreatedBy: terraform
