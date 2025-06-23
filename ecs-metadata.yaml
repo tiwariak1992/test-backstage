@@ -8,11 +8,12 @@ metadata:
     - ecs
     - sandbox
   annotations:
-    Name: ECS Cluster Metadata
+    Name: pattern
     Owner: Amit k Tiwari
     Team: SRE 
     Environment: Sandbox
     CreatedBy: Terraform
+    Repository: pattern-tf
 
 spec:
   type: ECS Cluster metadata
