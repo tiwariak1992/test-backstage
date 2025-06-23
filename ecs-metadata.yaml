@@ -4,18 +4,14 @@ metadata:
   name: ecs-metadata
   description: Stores ECS metadata
   tags:
-    - aws
+    - pattern
     - ecs
     - sandbox
-  annotations:
-    Name: pattern
-    Owner: Amit k Tiwari
-    Team: SRE 
-    Environment: Sandbox
-    CreatedBy: Terraform
-    Repository: pattern-tf
-
+    - pattern
+    - sandbox
+    - terraform
 spec:
   type: ECS Cluster metadata
-  owner: Site Reliability Engineering
-  system: ECS 
+  owner: Amit k Tiwari
+  team: SRE
+  repository: pattern-ecs-tf
