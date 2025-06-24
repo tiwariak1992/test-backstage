@@ -8,7 +8,7 @@ metadata:
     CreatedBy: terraform
     Name: app
     Repository: app-tf
-    Owner: sre
+    Owner: amit
     Team: sre
 spec:
   type: Service
