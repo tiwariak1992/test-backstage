@@ -9,7 +9,7 @@ metadata:
     - terraform
     - sre
     - amit k tiwari
-    - app-tf
+    - app repo
   annotations:
     Environment: sandbox
     CreatedBy: terraform
