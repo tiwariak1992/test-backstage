@@ -17,5 +17,7 @@ metadata:
     Team: sre
 spec:
   type: Service
+  owner: SRE
+  team: Amit k Tiwari
   system: ECS
   lifecycle: Experimental
