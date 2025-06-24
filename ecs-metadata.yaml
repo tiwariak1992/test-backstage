@@ -5,9 +5,10 @@ metadata:
   description: Stores ECS metadata
   tags:
     - app
-    - ecs
     - sandbox
     - terraform
+    - sre
+    - amit k tiwari
     - app-tf
   annotations:
     Environment: sandbox
