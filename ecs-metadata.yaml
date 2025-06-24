@@ -8,8 +8,8 @@ metadata:
     - sandbox
     - terraform
     - sre
-    - amit k tiwari
-    - app repo
+    - amit-k-tiwari
+    - app-repo
   annotations:
     Environment: sandbox
     CreatedBy: terraform
