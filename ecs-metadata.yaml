@@ -15,9 +15,9 @@ metadata:
     CreatedBy: terraform
     Name: app
     Repository: app-tf
+    Owner: amit k tiwari
+    Team: sre
 spec:
   type: Service
-  owner: Amit k Tiwari
-  team: SRE
   system: ECS
   lifecycle: Experimental
