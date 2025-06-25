@@ -3,6 +3,9 @@ kind: Resource
 metadata:
   name: ecs-metadata
   description: Stores ECS metadata
+  tags:
+    - ecs
+    - sandbox
   annotations:
     Environment: sandbox
     CreatedBy: terraform
