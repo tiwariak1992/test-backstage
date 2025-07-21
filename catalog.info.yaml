@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: amitkumar
+spec:
+  profile:
+    displayName: Amit Kumar
+    email: tiwariak1992@gmail.com
+  memberOf: [developers]
+  annotations:
+    github.com/user-login: tiwariak1992
+
