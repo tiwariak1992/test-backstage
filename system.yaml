@@ -3,6 +3,7 @@ kind: System
 metadata:
   name: artist-engagement-portal
   description: Handy tools to keep artists in the loop
+  CreatedBy: Amit
 spec:
   owner: artist-relations-team
   domain: artists
