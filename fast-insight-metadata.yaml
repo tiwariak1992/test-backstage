@@ -7,7 +7,7 @@ metadata:
     - fast-insights
     - sandbox
     - fast-insights-tf
-    - sanket
+    - amit
     - core
     - terraform
   annotations:
@@ -15,11 +15,11 @@ metadata:
     CreatedBy: terraform
     Name: fast-insights
     Repository: fast-insights-tf
-    Owner: sanket
+    Owner: amit
     Team: core
 spec:
   type: Service
-  owner: Sanket
+  owner: Amit
   team: Core
   system: ECS service
   lifecycle: Experimental
