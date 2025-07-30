@@ -1,0 +1,25 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fast-insights
+  description: Stores ECS metadata
+  tags:
+    - fast-insights
+    - sandbox
+    - fast-insights-tf
+    - sanket
+    - core
+    - terraform
+  annotations:
+    Environment: sandbox
+    CreatedBy: terraform
+    Name: fast-insights
+    Repository: fast-insights-tf
+    Owner: sanket
+    Team: core
+spec:
+  type: Service
+  owner: Sanket
+  team: Core
+  system: ECS service
+  lifecycle: Experimental

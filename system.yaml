@@ -1,9 +1,0 @@
-apiVersion: backstage.io/v1alpha1
-kind: System
-metadata:
-  name: artist-engagement-portal
-  description: Handy tools to keep artists in the loop
-  createdBy: Amit
-spec:
-  owner: artist-relations-team
-  domain: artists
