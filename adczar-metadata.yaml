@@ -1,0 +1,25 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: adczar
+  description: Stores ECS metadata
+  tags:
+    - adczar
+    - sandbox
+    - adczar-tf
+    - matt s
+    - grow
+    - terraform
+  annotations:
+    Environment: sandbox
+    CreatedBy: terraform
+    Name: adczar
+    Repository: adczar-tf
+    Owner: matt s
+    Team: grow
+spec:
+  type: Service
+  owner: Matt s
+  team: Grow
+  system: ECS service
+  lifecycle: Experimental
