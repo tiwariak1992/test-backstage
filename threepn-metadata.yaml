@@ -1,1 +1,25 @@
-xyz
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: threepn
+  description: Stores ECS metadata
+  tags:
+    - threepn
+    - sandbox
+    - threepn-tf
+    - surbhi
+    - distribute
+    - terraform
+  annotations:
+    Environment: sandbox
+    CreatedBy: terraform
+    Name: threepn
+    Repository: threepn-tf
+    Owner: surbhi
+    Team: distribute
+spec:
+  type: Service
+  owner: Surbhi
+  team: Distribute
+  system: ECS service
+  lifecycle: Experimental
