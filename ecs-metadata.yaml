@@ -4,15 +4,19 @@ metadata:
   name: amaczar
   description: Stores ECS metadata
   tags:
-    - ecs
+    - amaczar
     - sandbox
+    - amczar-tf
+    - surbhi
+    - distribute
+    - terraform
   annotations:
     Environment: sandbox
     CreatedBy: terraform
-    Name: app
-    Repository: app-tf
-    Owner: vijay
-    Team: sre
+    Name: amaczar
+    Repository: amaczar-tf
+    Owner: surbhi
+    Team: distribute
 spec:
   type: Service
   owner: Surbhi
